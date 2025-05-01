@@ -1,4 +1,5 @@
-package com.example;
+package net.ryzlar.weedmod;
+public static final String MOD_ID = "weedmod";
 
 import net.fabricmc.api.ModInitializer;
 
